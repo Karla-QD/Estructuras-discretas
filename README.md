@@ -1,7 +1,7 @@
 # Estructuras-discretas
 Material de curso de estructuras discretas
-Descomprime el archivo
-Puedes usar Visual Studio Code (VS Code) con la extension "Python" , que incluye soporte para archivos en jupyter:
+
+Descomprime el archivo, puedes usar Visual Studio Code (VS Code) con la extension "Python" , que incluye soporte para archivos en jupyter:
 
 1) Abre VS Code en tu ordenador.
 2) Haz clic en "File" en la barra de menú y selecciona "Open Folder".
